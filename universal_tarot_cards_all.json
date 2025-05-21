@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Ace Of Cups",
+    "image": "universal_tarot_images/Ace_of_Cups.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Ace Of Pentacles",
+    "image": "universal_tarot_images/Ace_of_Pentacles.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Ace Of Swords",
+    "image": "universal_tarot_images/Ace_of_Swords.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Ace Of Wands",
+    "image": "universal_tarot_images/Ace_of_Wands.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Death",
+    "image": "universal_tarot_images/13.Death.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Judgement",
+    "image": "universal_tarot_images/20.Judgement.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Justice",
+    "image": "universal_tarot_images/11.Justice.jpg",
+    "fortune": "곧 당신은 공정한 판단을 받게 됩니다...",
+    "advice": "감정에 흔들리지 말고, 사실에 집중하세요..."
+  },
+  {
+    "name": "King Of Cups",
+    "image": "universal_tarot_images/King_of_Cups.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "King Of Pentacles",
+    "image": "universal_tarot_images/King_of_Pentacles.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "King Of Swords",
+    "image": "universal_tarot_images/King_of_Swords.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "King Of Wands",
+    "image": "universal_tarot_images/King_of_Wands.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Knight Of Cups",
+    "image": "universal_tarot_images/Knight_of_Cups.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Knight Of Pentacles",
+    "image": "universal_tarot_images/Knight_of_Pentacles.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Knight Of Swords",
+    "image": "universal_tarot_images/Knight_of_Swords.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Knight Of Wands",
+    "image": "universal_tarot_images/Knight_of_Wands.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Page Of Cups",
+    "image": "universal_tarot_images/Page_of_Cups.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Page Of Pentacles",
+    "image": "universal_tarot_images/Page_of_Pentacles.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Page Of Swords",
+    "image": "universal_tarot_images/Page_of_Swords.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Page Of Wands",
+    "image": "universal_tarot_images/Page_of_Wands.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Queen Of Cups",
+    "image": "universal_tarot_images/Queen_of_Cups.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Queen Of Pentacles",
+    "image": "universal_tarot_images/Queen_of_Pentacles.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Queen Of Swords",
+    "image": "universal_tarot_images/Queen_of_Swords.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Queen Of Wands",
+    "image": "universal_tarot_images/Queen_of_Wands.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Strength",
+    "image": "universal_tarot_images/8.Strength.jpg",
+    "fortune": "머지않은 시점에, 당신은 감정을 눌러야 하는 상황을 겪게 됩니다...",
+    "advice": "화를 내는 대신 한 발 물러서고, 상황을 지켜보는 힘을 키우세요..."
+  },
+  {
+    "name": "Temperance",
+    "image": "universal_tarot_images/14.Temperance.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Chariot",
+    "image": "universal_tarot_images/7.The_Chariot.jpg",
+    "fortune": "조만간 당신은 강한 추진력으로 상황을 밀고 나가게 됩니다...",
+    "advice": "지금은 ‘머뭇거리는 것’이 가장 큰 방해입니다..."
+  },
+  {
+    "name": "The Devil",
+    "image": "universal_tarot_images/15.The_Devil.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Emperor",
+    "image": "universal_tarot_images/4.The_Emperor.jpg",
+    "fortune": "머지않아 당신은 결단의 순간에 서게 됩니다...",
+    "advice": "당신이 결정하고, 당신이 밀고 가야 할 시기입니다..."
+  },
+  {
+    "name": "The Empress",
+    "image": "universal_tarot_images/3.The_Empress.jpg",
+    "fortune": "이번 주 후반, 당신 주변에 기분 좋은 제안이 다가옵니다...",
+    "advice": "스스로를 아끼는 것이 첫 번째입니다. 향 좋은 차, 부드러운 촉감의 옷..."
+  },
+  {
+    "name": "The Fool",
+    "image": "universal_tarot_images/0.The_Fool.jpg",
+    "fortune": "당신의 삶에 예상치 못한 변화가 들어옵니다. 새로운 일을 시작하거나...",
+    "advice": "모든 걸 다 정해두려 하지 마세요. 이번 시기의 운은 계산보단 ‘순응’에 가깝습니다..."
+  },
+  {
+    "name": "The Hanged Man",
+    "image": "universal_tarot_images/12.The_Hanged_Man.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Hermit",
+    "image": "universal_tarot_images/9.The_Hermit.jpg",
+    "fortune": "조만간 당신은 외부가 아닌 ‘내 안’을 들여다보게 되는 사건을 겪습니다...",
+    "advice": "일상을 줄이고, 말수를 줄이고, 마음속 ‘잡음’을 잠시 꺼두세요..."
+  },
+  {
+    "name": "The Hierophant",
+    "image": "universal_tarot_images/5.The_Hierophant.jpg",
+    "fortune": "조만간 당신은 ‘조언’을 받게 됩니다...",
+    "advice": "혼자 해결하려 하지 말고, 누군가의 조언을 구하세요..."
+  },
+  {
+    "name": "The High Priestess",
+    "image": "universal_tarot_images/2.The_High_Priestess.jpg",
+    "fortune": "당신은 지금 모든 답을 알고 있으면서도, 결정을 미루고 있습니다...",
+    "advice": "소란을 피우지 말고, 시간을 벌어야 합니다..."
+  },
+  {
+    "name": "The Lovers",
+    "image": "universal_tarot_images/6.The_Lovers.jpg",
+    "fortune": "머지않아, 당신의 마음을 시험할 만남이나 선택이 다가옵니다...",
+    "advice": "사람을 대할 때, 계산보다 마음을 먼저 내보이세요..."
+  },
+  {
+    "name": "The Magician",
+    "image": "universal_tarot_images/1.The_Magician.jpg",
+    "fortune": "이번 주 안에, 당신이 ‘할 수 있다’고 믿는 일이 실제로 현실화됩니다...",
+    "advice": "마음속에서 ‘나는 부족하다’는 생각을 치워내세요. 지금 필요한 건 ‘설득력’입니다..."
+  },
+  {
+    "name": "The Moon",
+    "image": "universal_tarot_images/18.The_Moon.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Star",
+    "image": "universal_tarot_images/17.The_Star.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Sun",
+    "image": "universal_tarot_images/19.The_Sun.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The Tower",
+    "image": "universal_tarot_images/16.The_Tower.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "The World",
+    "image": "universal_tarot_images/21.The_World.jpg",
+    "fortune": "",
+    "advice": ""
+  },
+  {
+    "name": "Wheel Of Fortune",
+    "image": "universal_tarot_images/10.Wheel_of_Fortune.jpg",
+    "fortune": "",
+    "advice": ""
+  }
+]
