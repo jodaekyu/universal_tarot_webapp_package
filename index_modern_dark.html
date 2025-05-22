@@ -183,28 +183,15 @@
       const readingResult = document.getElementById("readingResult");
       readingResult.innerHTML = "<p>AI가 조언을 준비 중입니다... 🔮</p>";
 
-      const prompt = `
-질문: ${question}
-
-당신이 뽑은 카드는 다음과 같습니다:
-1. ${selected[0].name}: ${selected[0].fortune}
-2. ${selected[1].name}: ${selected[1].fortune}
-3. ${selected[2].name}: ${selected[2].fortune}
-
-위 카드들의 의미를 바탕으로 질문에 대해 현실적이고 명확한 조언을 해주세요.
-친절하고 따뜻한 말투로 답변하되, 필요하다면 약간의 위트도 좋습니다.
-`;
-
-      const response = await fetch("https://api.openai.com/v1/chat/completions", {
+            const response = await fetch("https://enata-tarot-api-1.onrender.com/generate", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
           "Authorization": "Bearer YOUR_OPENAI_KEY_HERE"
         },
         body: JSON.stringify({
-          model: "gpt-3.5-turbo",
-          messages: [{ role: "user", content: prompt }],
-          temperature: 0.8
+          
+          body: JSON.stringify({ question, cards: selected })          temperature: 0.7
         })
       });
 
